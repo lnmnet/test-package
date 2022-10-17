@@ -1,5 +1,5 @@
 {
-  "name": "@test-package",
+  "name": "test-package",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,9 +9,6 @@
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lnmnet/test-package.git"
-  },
-  "publishConfig": {
-    "@test-package:registry": "https://npm.pkg.github.com"
   },
   "keywords": [],
   "author": "",
